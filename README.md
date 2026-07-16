@@ -10,50 +10,32 @@
 
 ---
 
-# 🚀 Sobre mim
+# 👨‍💻 Sobre mim
 
-```java
-public class Pedro {
+Olá! Sou **Pedro Seudo Valenti**, desenvolvedor Full Stack apaixonado por tecnologia e por transformar ideias em soluções digitais.
 
-    String name = "Pedro Seudo Valenti";
+Atualmente estudo **Análise e Desenvolvimento de Sistemas** e estou sempre buscando evoluir minhas habilidades em desenvolvimento web, aplicações desktop e projetos de software.
 
-    String[] languages = {
-        "Java",
-        "PHP",
-        "TypeScript",
-        "JavaScript"
-    };
+Tenho experiência no desenvolvimento de sistemas utilizando **PHP**, **Java**, **React**, **TypeScript**, **JavaScript** e **MySQL**, além de trabalhar com versionamento utilizando **Git** e **GitHub**.
 
-    String[] frameworks = {
-        "React",
-        "Node.js"
-    };
+Gosto de desenvolver projetos que unem performance, design moderno e código limpo, sempre buscando boas práticas e aprendizado contínuo.
 
-    String database = "MySQL";
+### 🚀 Atualmente
 
-    String[] tools = {
-        "Git",
-        "GitHub",
-        "IntelliJ IDEA",
-        "VS Code",
-        "Figma"
-    };
+- 💻 Desenvolvendo aplicações Full Stack
+- 🌱 Aprendendo novas tecnologias e arquiteturas de software
+- ⚙️ Criando soluções com foco em desempenho e escalabilidade
+- 🎯 Buscando oportunidades para crescer como desenvolvedor
 
-    String currentFocus = "Construindo aplicações modernas e escaláveis.";
-}
-```
+### 💡 Interesses
 
----
-
-# 🛠 Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,php,react,ts,js,nodejs,html,css,mysql,git,github,vscode,idea,figma,linux,bootstrap" />
-
-</div>
-
----
+- Desenvolvimento Web
+- Desenvolvimento Back-end
+- Interfaces Modernas (UI/UX)
+- Open Source
+- Banco de Dados
+- Engenharia de Software
+- Automação de Processos
 
 # 📊 Estatísticas
 
