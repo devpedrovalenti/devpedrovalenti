@@ -37,15 +37,6 @@ Gosto de desenvolver projetos que unem performance, design moderno e código lim
 - Engenharia de Software
 - Automação de Processos
 ---
-# 🔥 Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=devpedrovalenti&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 📈 Activity Graph
 
@@ -54,20 +45,6 @@ Gosto de desenvolver projetos que unem performance, design moderno e código lim
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devpedrovalenti&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devpedrovalenti&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🐍 Snake eating my commits
 
 <div align="center">
 
