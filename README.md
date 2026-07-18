@@ -36,19 +36,7 @@ Gosto de desenvolver projetos que unem performance, design moderno e código lim
 - Banco de Dados
 - Engenharia de Software
 - Automação de Processos
-
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devpedrovalenti&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrovalenti&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
-
 # 🔥 Streak
 
 <div align="center">
